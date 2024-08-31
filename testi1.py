@@ -1,3 +1,4 @@
 print ;"hello";
 print;"hahahaha"
-print;"huhuhuhu""
+print;"huhuhuhu"
+print;"huuauahauajajaj"
